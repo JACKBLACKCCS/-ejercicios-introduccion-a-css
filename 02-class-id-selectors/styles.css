@@ -1,0 +1,39 @@
+/* Estilos para todos los elementos <p> */
+p {
+    background-color: rgb(255, 182, 193); /* Fondo rojo/rosa claro */
+    font-family: Verdana, 'DejaVu Sans', sans-serif; /* Lista de fuentes */
+    color: black; /* Texto negro */
+    font-weight: bold; /* Negrita */
+    margin: 10px 0; /* Espaciado entre párrafos */
+}
+
+/* Estilo para el segundo elemento <div> */
+.Dos {
+    color: rgb(0, 0, 255); /* Texto azul */
+    font-size: 36px; /* Tamaño de fuente de 36 px */
+    font-weight: bold; /* Negrita */
+}
+
+/* Estilo para el tercer elemento <p> */
+
+.Tres {
+    background-color: rgb(255, 182, 193); /* Fondo color rosa claro */
+    font-size: 24px; /* Tamaño de fuente de 24 px */
+    font-weight: 300; /* Peso de fuente más ligero */
+}
+
+/* Estilo para el cuarto elemento <div> */
+.Cuatro {
+    background-color: rgb(144, 238, 144); /* Fondo verde claro */
+    font-size: 20px; /* Tamaño de fuente de 24 px */
+    font-weight: bold; /* Negrita */
+    color: black; /* Texto negro */
+}
+
+/* Estilo para el quinto elemento <p> */
+.Quinto {
+    background-color: rgb(255, 182, 193); /* Fondo rojo/rosa claro */
+    font-family: Verdana, 'DejaVu Sans', sans-serif; /* Lista de fuentes */
+    color: black; /* Texto negro */
+    margin: 10px 0; /* Espaciado entre párrafos */
+}

@@ -1,0 +1,18 @@
+div {
+    background-color: red; /* Fondo rojo */
+    color: white; /* Texto blanco */
+    font-size: 32px; /* Tamaño de fuente de 32 px */
+    text-align: center; /* Alineado al centro */
+    font-weight: bold; /* Texto en negrita */
+}
+
+p {
+    background-color: green; /* Fondo verde */
+    color: white; /* Texto blanco */
+    font-size: 18px; /* Tamaño de fuente de 18 px */
+}
+
+button {
+    background-color: orange; /* Fondo naranja */
+    font-size: 18px; /* Tamaño de fuente de 18 px */
+}

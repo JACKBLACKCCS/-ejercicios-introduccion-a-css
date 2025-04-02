@@ -1,0 +1,11 @@
+.avatar.proportioned {
+    width: 300px; /* Ancho de 300 píxeles */
+    height: auto; 
+}
+
+/* Estilo para imágenes con clases 'avatar' y 'original' que son 'distorted' */
+.avatar.distorted {
+    width: 200px; /* Ancho de 200 píxeles */
+    height: 400px; /* Altura es el doble del ancho */
+
+}

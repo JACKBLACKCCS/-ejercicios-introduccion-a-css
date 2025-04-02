@@ -1,0 +1,21 @@
+/* Estilos compartidos para ambos botones */
+button {
+    font-size: 45px; /* Tamaño de fuente de 45 px */
+    font-family: Helvetica, "Times New Roman", sans-serif; /* Lista de fuentes */
+    padding: 10px 20px; /* Espaciado interno */
+    margin: 5px; /* Espaciado externo */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+   
+}
+
+/* Estilos únicos para el primer botón */
+button:first-of-type {
+    background-color: black; /* Fondo negro */
+    color: white; /* Texto blanco */
+}
+
+/* Estilos únicos para el segundo botón */
+button:last-of-type {
+    background-color: yellow; /* Fondo amarillo */
+}
