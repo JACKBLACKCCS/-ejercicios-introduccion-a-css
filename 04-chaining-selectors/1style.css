@@ -1,0 +1,10 @@
+/* Encadenamiento de selectores para .avatar y .proportioned */
+.avatar.proportioned {
+  width: 300px;               /* Ancho fijo */
+  height: auto;               /* Mantener la proporción cuadrada */
+}
+
+
+
+
+
