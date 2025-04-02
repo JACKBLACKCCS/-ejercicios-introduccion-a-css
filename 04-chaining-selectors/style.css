@@ -1,11 +1,12 @@
+/* Seleccionamos .avatar con .proportioned para que tenga un ancho de 300px y altura proporcional */
 .avatar.proportioned {
-    width: 300px; /* Ancho de 300 píxeles */
-    height: auto; 
-}
-
-/* Estilo para imágenes con clases 'avatar' y 'original' que son 'distorted' */
+    width: 300px;
+    height: auto; /* Esto mantiene las proporciones originales de la imagen */
+  }
+  
+  /* Seleccionamos .avatar con .distorted para que tenga un ancho de 200px y la altura el doble del ancho */
 .avatar.distorted {
-    width: 200px; /* Ancho de 200 píxeles */
-    height: 400px; /* Altura es el doble del ancho */
-
-}
+    width: 200px;
+    height: 400px; /* La altura es el doble del ancho */
+  }
+  
